@@ -1,9 +1,9 @@
 Spring Boot with Struts 2
 =========================
 Spring Boot Application with Struts 2 and Struts convention plugin
-
-### 
-      Author: Nguyen Ngoc Anh - Email: anhnnpmp@gmail.com
+----------------
+### Author
+      Nguyen Ngoc Anh - Email: anhnnpmp@gmail.com
 
 ### References
 
